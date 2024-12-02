@@ -23,6 +23,8 @@
 #pragma clang diagnostic ignored "-Wpadded"
 #endif
 
+#include <cstdint>
+
 namespace Catch {
 
     /**
